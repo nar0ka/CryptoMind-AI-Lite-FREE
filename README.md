@@ -1,0 +1,1 @@
+# CryptoMind-AI-Lite-FREE
