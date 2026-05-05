@@ -1,5 +1,6 @@
 # 📊 CryptoMind AI FREE Lite: Бесплатная аналитическая станция институционального уровня
 
+
 ![n8n certified](https://img.shields.io/badge/n8n-certified-scroll?color=EA4B33) ![AI Gemini | GPT-4o](https://img.shields.io/badge/AI-Gemini%20%7C%20GPT--4o-blue) ![Market Crypto](https://img.shields.io/badge/Market-Crypto-orange) ![Status Production Ready](https://img.shields.io/badge/Status-Production%20Ready-green)
 
 > **Хватит торговать на эмоциях. Начните принимать решения с умом — БЕСПЛАТНО.**
